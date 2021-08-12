@@ -7,5 +7,5 @@ eureka:
   instance:
     hostname: localhost
 
-name: Ganesh CheepuriFROMgit
+name: Fighting with fever
 number: 23
